@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Harwinder Kaur - Full Stack Developer Enthusiast!
-
+I'm Harwinder Kaur
+Full stack Web Developer
+A passionate individual dedicated to building scalable web applications. With expertise in ⚛️ React, 🌐 Node.js, and 🗄️ PostgreSQL, I specialize in developing seamless user experiences and efficient backend systems. Constantly exploring new technologies 🔍, I strive to create impactful digital solutions 💡
 <!--
 **Harwinderiam/harwinderiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
