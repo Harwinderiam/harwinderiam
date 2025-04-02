@@ -4,6 +4,12 @@
 A passionate individual dedicated to building scalable web applications. With expertise in ⚛️ React, 🌐 Node.js, and 🗄️ PostgreSQL, I specialize in developing seamless user experiences and efficient backend systems. Constantly exploring new technologies 🔍, I strive to create impactful digital solutions 💡
 
 🌐 Let's connect and build something incredible together! Open to collaboration and always up for a good coding challenge. Check out my repositories, and feel free to reach out. Happy coding! 🚀✨
+
+🛠️ My Tech Toolkit
+🌈 Frontend Magic
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 <!--
 **Harwinderiam/harwinderiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
